@@ -20,7 +20,7 @@ Once the code is compiled, you can deploy the contract by clicking on the "Deplo
 
 Once the contract is deployed, you can interact with it by calling the Mint & Burn functions. You can get the input for "_address" by copying the code from the "Account" section. The value can be whatever integer, as long as it is not negative. Click on the "Transact" button to execute transactions.
  
-Contributors names and contact info
+## Authors
 
 Zedric Ramoso
 [r0guePH](https://github.com/r0gueph)
