@@ -12,7 +12,7 @@ This is a simple Solidity program that aims to show how minting and burning toke
 
 This program can be run using Remix, an online Solidity IDE. Remix can be accessed through their website, [https://remix.ethereum.org/](https://remix.ethereum.org/).
 
-In the Remix website, create a new file by clicking on the "+" icon on the left-hand sidebar. Save the file with a .sol extension (e.g., HelloWorld.sol). Copy the source code from the Assessment.sol file in this repository, and paste it in the c
+In the Remix website, create a new file by clicking on the "+" icon on the left-hand sidebar. Save the file with a .sol extension (e.g., HelloWorld.sol). Copy the source code from the Assessment.sol file in this repository, and paste it in the file you created.
 
 # Authors
 
