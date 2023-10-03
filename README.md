@@ -23,6 +23,7 @@ Once the contract is deployed, you can interact with it by calling the Mint & Bu
 ## Authors
 
 Zedric Ramoso
+
 [r0guePH](https://github.com/r0gueph)
 
 
