@@ -14,8 +14,12 @@ This program can be run using Remix, an online Solidity IDE. Remix can be access
 
 In the Remix website, create a new file by clicking on the "+" icon on the left-hand sidebar. Save the file with a .sol extension (e.g., HelloWorld.sol). Copy the source code from the Assessment.sol file in this repository, and paste it in the file you created.
 
-# Authors
+In order to compile the code, click on the "Solidity Compiler" tab in the left-hand sidebar. Make sure the "Compiler" option is set to "0.8.18" or any compatible version. You should then see a blue button with a "Compile (Your File Name).sol". Click that button to compile the code.
 
+Once the code is compiled, you can deploy the contract by clicking on the "Deploy & Run Transactions" tab in the left-hand sidebar. Select the the contract with your file name from the dropdown menu, and then click on the "Deploy" button.
+
+Once the contract is deployed, you can interact with it by calling the Mint & Burn functions. You can get the input for "_address" by copying the code from the "Account" section. The value can be whatever integer, as long as it is not negative. Click on the "Transact" button to execute transactions.
+ 
 Contributors names and contact info
 
 Zedric Ramoso
